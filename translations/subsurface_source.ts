@@ -7259,6 +7259,186 @@ See https://doc.qt.io/archives/qt-4.8/qdatetime.html#fromString</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="176"/>
+        <source>Dive data as subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="192"/>
+        <source>Subtitle format string subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="213"/>
+        <source>Available tags:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="221"/>
+        <source>Dive time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="229"/>
+        <source>Depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="237"/>
+        <source>Temperature:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="245"/>
+        <source>Ceiling:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="253"/>
+        <source>NDL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="261"/>
+        <source>TTS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="269"/>
+        <source>RBT:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="277"/>
+        <source>Stop time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="285"/>
+        <source>Stop depth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="293"/>
+        <source>CNS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="301"/>
+        <source>SAC:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="309"/>
+        <source>pO₂:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="317"/>
+        <source>pN₂:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="325"/>
+        <source>pHe:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="333"/>
+        <source>O₂ pressure (rebreather)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="341"/>
+        <source>O₂ setpoint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="349"/>
+        <source>SCR ΔpO₂:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="357"/>
+        <source>MOD:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="365"/>
+        <source>EAD:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="373"/>
+        <source>END:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="381"/>
+        <source>EADD:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="389"/>
+        <source>Vertical speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="397"/>
+        <source>In deco (calculated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="405"/>
+        <source>NDL (calculated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="413"/>
+        <source>TTS (calculated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="421"/>
+        <source>Stop time (calculated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="429"/>
+        <source>Stop depth (calculated)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="437"/>
+        <source>Heartrate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="445"/>
+        <source>Bearing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="453"/>
+        <source>Surface GF:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="461"/>
+        <source>Current GF:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="469"/>
+        <source>Density:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../desktop-widgets/preferences/preferences_media.ui" line="477"/>
+        <source>ICD Warning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../desktop-widgets/preferences/preferences_media.ui" line="150"/>
         <source>Extract at position</source>
         <translation type="unfinished"></translation>
